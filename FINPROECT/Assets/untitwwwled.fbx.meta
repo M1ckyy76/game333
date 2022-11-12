@@ -1,0 +1,2082 @@
+fileFormatVersion: 2
+guid: b5eb904b31e418543a0c5abaab0e65ec
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable:
+  - first:
+      74: -3532638627038518217
+    second: WindowLightGlow|Camera|Take 001|Layer 001
+  - first:
+      74: 5364416707939259680
+    second: WindowLightGlow|Fog|Scene
+  - first:
+      74: 5423994451645473221
+    second: WindowLightGlow|old tree|Take 001|Layer 001
+  - first:
+      74: 3392021933508664460
+    second: WindowLightGlow|particle.000|Scene
+  - first:
+      74: 5262846442924865095
+    second: WindowLightGlow|particle.005|Scene
+  - first:
+      74: -6214378231153785219
+    second: WindowLightGlow|particle.006|Scene
+  - first:
+      74: -5548465246337129605
+    second: WindowLightGlow|particle.017|Scene
+  - first:
+      74: 8847305624835147937
+    second: WindowLightGlow|particle.036|Scene
+  - first:
+      74: -1438632145156922021
+    second: WindowLightGlow|particle.043|Scene
+  - first:
+      74: -3266752421114531369
+    second: WindowLightGlow|particle.044|Scene
+  - first:
+      74: -3397279802295914990
+    second: WindowLightGlow|particle.055|Scene
+  - first:
+      74: 7722364083034878438
+    second: WindowLightGlow|particle.060|Scene
+  - first:
+      74: -2480859072191129489
+    second: WindowLightGlow|particle.064|Scene
+  - first:
+      74: 4308871556700713490
+    second: WindowLightGlow|particle.068|Scene
+  - first:
+      74: -7337442043113003117
+    second: WindowLightGlow|particle.070|Scene
+  - first:
+      74: -7058563286169492133
+    second: WindowLightGlow|particle.071|Scene
+  - first:
+      74: 2721402384432818712
+    second: WindowLightGlow|particle.085|Scene
+  - first:
+      74: -7713941369378664168
+    second: WindowLightGlow|particle.090|Scene
+  - first:
+      74: 8932083526121617378
+    second: WindowLightGlow|particle.102|Scene
+  - first:
+      74: 7415201488344210508
+    second: WindowLightGlow|particle.131|Scene
+  - first:
+      74: 2639542904691151105
+    second: WindowLightGlow|particle.136|Scene
+  - first:
+      74: 3080329865957883559
+    second: WindowLightGlow|particle.141|Scene
+  - first:
+      74: 1040974505887194560
+    second: WindowLightGlow|particle.144|Scene
+  - first:
+      74: 7677995648331920037
+    second: WindowLightGlow|particle.152|Scene
+  - first:
+      74: 5544248885587386385
+    second: WindowLightGlow|particle.155|Scene
+  - first:
+      74: -3014304037308931020
+    second: WindowLightGlow|particle.170|Scene
+  - first:
+      74: 6780922506436041090
+    second: WindowLightGlow|particle.174|Scene
+  - first:
+      74: -6607945781085346532
+    second: WindowLightGlow|particle.175|Scene
+  - first:
+      74: -4127792734322797170
+    second: WindowLightGlow|particle.180|Scene
+  - first:
+      74: 6382263003491769066
+    second: WindowLightGlow|particle.189|Scene
+  - first:
+      74: 1945675487328208504
+    second: WindowLightGlow|particle.190|Scene
+  - first:
+      74: 5262728911368522462
+    second: WindowLightGlow|particle.195|Scene
+  - first:
+      74: -7547834964425959643
+    second: WindowLightGlow|particle.197|Scene
+  - first:
+      74: 5975249401252791042
+    second: WindowLightGlow|particle.202|Scene
+  - first:
+      74: 1884855374620911411
+    second: WindowLightGlow|particle.216|Scene
+  - first:
+      74: 7468309504995679571
+    second: WindowLightGlow|particle.241|Scene
+  - first:
+      74: 4983373151205250775
+    second: WindowLightGlow|particle.243|Scene
+  - first:
+      74: 8629537434436171649
+    second: WindowLightGlow|particle.244|Scene
+  - first:
+      74: -7185569741707033067
+    second: WindowLightGlow|particle.248|Scene
+  - first:
+      74: -3515453526049959401
+    second: WindowLightGlow|particle.266|Scene
+  - first:
+      74: -2556652756919683916
+    second: WindowLightGlow|particle.273|Scene
+  - first:
+      74: 8352683595688742695
+    second: WindowLightGlow|particle.285|Scene
+  - first:
+      74: -4323890500054281764
+    second: WindowLightGlow|particle.299|Scene
+  - first:
+      74: -4521343889032666627
+    second: WindowLightGlow|particle.301|Scene
+  - first:
+      74: -4296527595698167609
+    second: WindowLightGlow|particle.303|Scene
+  - first:
+      74: -4749227750968310815
+    second: WindowLightGlow|particle.306|Scene
+  - first:
+      74: 8048550392293719589
+    second: WindowLightGlow|particle.309|Scene
+  - first:
+      74: 1342239339414584510
+    second: WindowLightGlow|particle.312|Scene
+  - first:
+      74: -368319754058988416
+    second: WindowLightGlow|particle.318|Scene
+  - first:
+      74: 4071819699233336597
+    second: WindowLightGlow|particle.320|Scene
+  - first:
+      74: -2151334476782191316
+    second: WindowLightGlow|particle.324|Scene
+  - first:
+      74: -4414515720610399037
+    second: WindowLightGlow|particle.329|Scene
+  - first:
+      74: -8967249675730086294
+    second: WindowLightGlow|particle.332|Scene
+  - first:
+      74: -5979466854861192592
+    second: WindowLightGlow|particle.335|Scene
+  - first:
+      74: 5761776498263135213
+    second: WindowLightGlow|particle.341|Scene
+  - first:
+      74: -5543844453684018562
+    second: WindowLightGlow|particle.345|Scene
+  - first:
+      74: -5376453677626029565
+    second: WindowLightGlow|particle.353|Scene
+  - first:
+      74: -3780529224152290419
+    second: WindowLightGlow|particle.371|Scene
+  - first:
+      74: -3717900628495061862
+    second: WindowLightGlow|particle.374|Scene
+  - first:
+      74: -8617456169482035417
+    second: WindowLightGlow|particle.380|Scene
+  - first:
+      74: -7493962290546154960
+    second: WindowLightGlow|particle.381|Scene
+  - first:
+      74: 189184662514580413
+    second: WindowLightGlow|particle.384|Scene
+  - first:
+      74: -3183477145036471883
+    second: WindowLightGlow|particle.385|Scene
+  - first:
+      74: 2802112390466155713
+    second: WindowLightGlow|particle.399|Scene
+  - first:
+      74: 3596531168979853706
+    second: WindowLightGlow|particle.401|Scene
+  - first:
+      74: 4568071017880707714
+    second: WindowLightGlow|particle.411|Scene
+  - first:
+      74: -367496996947688723
+    second: WindowLightGlow|particle.412|Scene
+  - first:
+      74: -8566256042573857012
+    second: WindowLightGlow|particle.413|Scene
+  - first:
+      74: -9022388423880760514
+    second: WindowLightGlow|particle.417|Scene
+  - first:
+      74: -5146762428139559205
+    second: WindowLightGlow|particle.430|Scene
+  - first:
+      74: 5111700967928235825
+    second: WindowLightGlow|particle.441|Scene
+  - first:
+      74: 4478409979308262717
+    second: WindowLightGlow|particle.449|Scene
+  - first:
+      74: -3632711701085743230
+    second: WindowLightGlow|particle.452|Scene
+  - first:
+      74: 5831116399661622403
+    second: WindowLightGlow|particle.455|Scene
+  - first:
+      74: 6232934186127229742
+    second: WindowLightGlow|particle.458|Scene
+  - first:
+      74: 8392556308495836364
+    second: WindowLightGlow|particle.459|Scene
+  - first:
+      74: 9212539265800494880
+    second: WindowLightGlow|particle.462|Scene
+  - first:
+      74: 1777896549003639242
+    second: WindowLightGlow|particle.463|Scene
+  - first:
+      74: -8309094858921813429
+    second: WindowLightGlow|particle.468|Scene
+  - first:
+      74: -5683748926523301360
+    second: WindowLightGlow|particle.471|Scene
+  - first:
+      74: -2449229297711036167
+    second: WindowLightGlow|particle.480|Scene
+  - first:
+      74: 2945975392362668436
+    second: WindowLightGlow|particle.495|Scene
+  - first:
+      74: -2928331230544859317
+    second: WindowLightGlow|particle.497|Scene
+  - first:
+      74: -3888832039811487299
+    second: WindowLightGlow|particle.499|Scene
+  - first:
+      74: -3359555877639132938
+    second: WindowLightGlow|Texture Group|Take 001|Layer 001
+  - first:
+      74: -7568576221228385009
+    second: WindowLightGlow|Wave.001B|Scene
+  - first:
+      74: 5975414361756315036
+    second: WindowLightGlow|Wave.001|Scene
+  - first:
+      74: -5578808045788952475
+    second: WindowLightGlow|Wave.002|Scene
+  - first:
+      74: 4379585326404481919
+    second: WindowLightGlow|Wave.003|Scene
+  - first:
+      74: -8416521786786787988
+    second: WindowLightGlow|Wave|Scene
+  - first:
+      74: -6541741404454900011
+    second: WindowLightGlow|WindowLightGlow|Scene
+  - first:
+      74: 352137740754216547
+    second: WindowLightGlow|WindowLightRefl|Scene
+  - first:
+      74: -2668008537318509778
+    second: WindowLightGlow|WindowLightTop|Scene
+  - first:
+      74: -2114234661303278500
+    second: WindowLightGlow|WindowLight|Scene
+  - first:
+      74: 394587758023668558
+    second: WindowLightRefl|Camera|Take 001|Layer 001
+  - first:
+      74: -2362142935215182471
+    second: WindowLightRefl|Fog|Scene
+  - first:
+      74: 8252004138895201739
+    second: WindowLightRefl|old tree|Take 001|Layer 001
+  - first:
+      74: 7970907397873288620
+    second: WindowLightRefl|particle.000|Scene
+  - first:
+      74: -727267778466801167
+    second: WindowLightRefl|particle.005|Scene
+  - first:
+      74: -5576873960887133490
+    second: WindowLightRefl|particle.006|Scene
+  - first:
+      74: 83477179216525285
+    second: WindowLightRefl|particle.017|Scene
+  - first:
+      74: 5080512994624553454
+    second: WindowLightRefl|particle.036|Scene
+  - first:
+      74: -7891789848976197899
+    second: WindowLightRefl|particle.043|Scene
+  - first:
+      74: -934409472685529158
+    second: WindowLightRefl|particle.044|Scene
+  - first:
+      74: 8130678838663139838
+    second: WindowLightRefl|particle.055|Scene
+  - first:
+      74: -135605707552743413
+    second: WindowLightRefl|particle.060|Scene
+  - first:
+      74: 3468572817300314138
+    second: WindowLightRefl|particle.064|Scene
+  - first:
+      74: 2705499807953887553
+    second: WindowLightRefl|particle.068|Scene
+  - first:
+      74: 3896368761189797002
+    second: WindowLightRefl|particle.070|Scene
+  - first:
+      74: -3962981950284469264
+    second: WindowLightRefl|particle.071|Scene
+  - first:
+      74: -4038698748303990542
+    second: WindowLightRefl|particle.085|Scene
+  - first:
+      74: 6332811015518918917
+    second: WindowLightRefl|particle.090|Scene
+  - first:
+      74: -9187608979902108612
+    second: WindowLightRefl|particle.102|Scene
+  - first:
+      74: 741510380087572158
+    second: WindowLightRefl|particle.131|Scene
+  - first:
+      74: -8226891594720130138
+    second: WindowLightRefl|particle.136|Scene
+  - first:
+      74: -2357959260470595193
+    second: WindowLightRefl|particle.141|Scene
+  - first:
+      74: -7187221150540959769
+    second: WindowLightRefl|particle.144|Scene
+  - first:
+      74: -545595559853054899
+    second: WindowLightRefl|particle.152|Scene
+  - first:
+      74: -2825957428313970842
+    second: WindowLightRefl|particle.155|Scene
+  - first:
+      74: -1799524576678141719
+    second: WindowLightRefl|particle.170|Scene
+  - first:
+      74: 1049297684869397064
+    second: WindowLightRefl|particle.174|Scene
+  - first:
+      74: -6120266468145524222
+    second: WindowLightRefl|particle.175|Scene
+  - first:
+      74: 1761731696324520643
+    second: WindowLightRefl|particle.180|Scene
+  - first:
+      74: -373863676061294923
+    second: WindowLightRefl|particle.189|Scene
+  - first:
+      74: -6871216995193159487
+    second: WindowLightRefl|particle.190|Scene
+  - first:
+      74: -7018494661255652962
+    second: WindowLightRefl|particle.195|Scene
+  - first:
+      74: 1481757497738600854
+    second: WindowLightRefl|particle.197|Scene
+  - first:
+      74: -8384710742408827657
+    second: WindowLightRefl|particle.202|Scene
+  - first:
+      74: 6257428507576330533
+    second: WindowLightRefl|particle.216|Scene
+  - first:
+      74: 5145399590105585875
+    second: WindowLightRefl|particle.241|Scene
+  - first:
+      74: 4354934915115382470
+    second: WindowLightRefl|particle.243|Scene
+  - first:
+      74: -4173897294756209450
+    second: WindowLightRefl|particle.244|Scene
+  - first:
+      74: -342874226278606595
+    second: WindowLightRefl|particle.248|Scene
+  - first:
+      74: 5418340610715149270
+    second: WindowLightRefl|particle.266|Scene
+  - first:
+      74: -8099667520100991524
+    second: WindowLightRefl|particle.273|Scene
+  - first:
+      74: 7641856539986717597
+    second: WindowLightRefl|particle.285|Scene
+  - first:
+      74: -9036918923252755256
+    second: WindowLightRefl|particle.299|Scene
+  - first:
+      74: 7255676750236018818
+    second: WindowLightRefl|particle.301|Scene
+  - first:
+      74: 7644719280263990977
+    second: WindowLightRefl|particle.303|Scene
+  - first:
+      74: 4694815803810527571
+    second: WindowLightRefl|particle.306|Scene
+  - first:
+      74: 3760636029718258458
+    second: WindowLightRefl|particle.309|Scene
+  - first:
+      74: 6525804247276058236
+    second: WindowLightRefl|particle.312|Scene
+  - first:
+      74: -4392228599866939247
+    second: WindowLightRefl|particle.318|Scene
+  - first:
+      74: -3801441120771600773
+    second: WindowLightRefl|particle.320|Scene
+  - first:
+      74: -8678683138960301187
+    second: WindowLightRefl|particle.324|Scene
+  - first:
+      74: 7807222418136738406
+    second: WindowLightRefl|particle.329|Scene
+  - first:
+      74: -2567795284061483340
+    second: WindowLightRefl|particle.332|Scene
+  - first:
+      74: 4643522777994387873
+    second: WindowLightRefl|particle.335|Scene
+  - first:
+      74: 7558970109490880260
+    second: WindowLightRefl|particle.341|Scene
+  - first:
+      74: -5009653764371775148
+    second: WindowLightRefl|particle.345|Scene
+  - first:
+      74: 2091993149506499534
+    second: WindowLightRefl|particle.353|Scene
+  - first:
+      74: -258514677562272855
+    second: WindowLightRefl|particle.371|Scene
+  - first:
+      74: 5755606974785598683
+    second: WindowLightRefl|particle.374|Scene
+  - first:
+      74: 624061283914350570
+    second: WindowLightRefl|particle.380|Scene
+  - first:
+      74: -5255539426277465475
+    second: WindowLightRefl|particle.381|Scene
+  - first:
+      74: -7297164920375903000
+    second: WindowLightRefl|particle.384|Scene
+  - first:
+      74: -8921733186996751117
+    second: WindowLightRefl|particle.385|Scene
+  - first:
+      74: 8034636253727166545
+    second: WindowLightRefl|particle.399|Scene
+  - first:
+      74: -4067915974364521072
+    second: WindowLightRefl|particle.401|Scene
+  - first:
+      74: -3575872828376606206
+    second: WindowLightRefl|particle.411|Scene
+  - first:
+      74: -7154763995147164376
+    second: WindowLightRefl|particle.412|Scene
+  - first:
+      74: -7166957635443236596
+    second: WindowLightRefl|particle.413|Scene
+  - first:
+      74: 317993141929389348
+    second: WindowLightRefl|particle.417|Scene
+  - first:
+      74: -2667497419186317890
+    second: WindowLightRefl|particle.430|Scene
+  - first:
+      74: -6179410220945241683
+    second: WindowLightRefl|particle.441|Scene
+  - first:
+      74: -8824074005289987978
+    second: WindowLightRefl|particle.449|Scene
+  - first:
+      74: 9216729238062817452
+    second: WindowLightRefl|particle.452|Scene
+  - first:
+      74: 8844880277306660571
+    second: WindowLightRefl|particle.455|Scene
+  - first:
+      74: -891360969625194994
+    second: WindowLightRefl|particle.458|Scene
+  - first:
+      74: -898784470631835413
+    second: WindowLightRefl|particle.459|Scene
+  - first:
+      74: -1626316346067894346
+    second: WindowLightRefl|particle.462|Scene
+  - first:
+      74: 9119740076626109227
+    second: WindowLightRefl|particle.463|Scene
+  - first:
+      74: 3856745615862654848
+    second: WindowLightRefl|particle.468|Scene
+  - first:
+      74: -4691008896292018401
+    second: WindowLightRefl|particle.471|Scene
+  - first:
+      74: 3480363554913292987
+    second: WindowLightRefl|particle.480|Scene
+  - first:
+      74: 2578021258306846548
+    second: WindowLightRefl|particle.495|Scene
+  - first:
+      74: 794836885718291444
+    second: WindowLightRefl|particle.497|Scene
+  - first:
+      74: 4463085846058637607
+    second: WindowLightRefl|particle.499|Scene
+  - first:
+      74: 509644364729052811
+    second: WindowLightRefl|Texture Group|Take 001|Layer 001
+  - first:
+      74: -5185119294053532913
+    second: WindowLightRefl|Wave.001B|Scene
+  - first:
+      74: 4605137410543819903
+    second: WindowLightRefl|Wave.001|Scene
+  - first:
+      74: 4439040835486339354
+    second: WindowLightRefl|Wave.002|Scene
+  - first:
+      74: -2321713128011871881
+    second: WindowLightRefl|Wave.003|Scene
+  - first:
+      74: -8822936778418157259
+    second: WindowLightRefl|Wave|Scene
+  - first:
+      74: -3197043054707523769
+    second: WindowLightRefl|WindowLightGlow|Scene
+  - first:
+      74: -367270635898107723
+    second: WindowLightRefl|WindowLightRefl|Scene
+  - first:
+      74: -4614600986421217195
+    second: WindowLightRefl|WindowLightTop|Scene
+  - first:
+      74: 6481574021020862985
+    second: WindowLightRefl|WindowLight|Scene
+  - first:
+      74: 6841526285738490777
+    second: WindowLight|Camera|Take 001|Layer 001
+  - first:
+      74: -8435136793962004947
+    second: WindowLight|Fog|Scene
+  - first:
+      74: -4894032849246608031
+    second: WindowLight|old tree|Take 001|Layer 001
+  - first:
+      74: -3646498996941358415
+    second: WindowLight|particle.000|Scene
+  - first:
+      74: -810672642994007111
+    second: WindowLight|particle.005|Scene
+  - first:
+      74: -6824113218167626905
+    second: WindowLight|particle.006|Scene
+  - first:
+      74: 4931715923080711918
+    second: WindowLight|particle.017|Scene
+  - first:
+      74: -6645487189414510790
+    second: WindowLight|particle.036|Scene
+  - first:
+      74: -5097807411431679760
+    second: WindowLight|particle.043|Scene
+  - first:
+      74: 6640390603165739733
+    second: WindowLight|particle.044|Scene
+  - first:
+      74: -5604456952206118653
+    second: WindowLight|particle.055|Scene
+  - first:
+      74: -7502404551016641311
+    second: WindowLight|particle.060|Scene
+  - first:
+      74: -5958133759343380580
+    second: WindowLight|particle.064|Scene
+  - first:
+      74: -4207785174352206697
+    second: WindowLight|particle.068|Scene
+  - first:
+      74: 4181327086096134008
+    second: WindowLight|particle.070|Scene
+  - first:
+      74: -284690425773235453
+    second: WindowLight|particle.071|Scene
+  - first:
+      74: -452151703050803409
+    second: WindowLight|particle.085|Scene
+  - first:
+      74: -5071844229482560751
+    second: WindowLight|particle.090|Scene
+  - first:
+      74: -4678944557807878141
+    second: WindowLight|particle.102|Scene
+  - first:
+      74: 8101776439331074828
+    second: WindowLight|particle.131|Scene
+  - first:
+      74: -3374315712752197976
+    second: WindowLight|particle.136|Scene
+  - first:
+      74: 4489844662262699766
+    second: WindowLight|particle.141|Scene
+  - first:
+      74: 7007821621969896266
+    second: WindowLight|particle.144|Scene
+  - first:
+      74: -4381424963967804989
+    second: WindowLight|particle.152|Scene
+  - first:
+      74: 97437738627452091
+    second: WindowLight|particle.155|Scene
+  - first:
+      74: 8306492394889174192
+    second: WindowLight|particle.170|Scene
+  - first:
+      74: 332467450580905057
+    second: WindowLight|particle.174|Scene
+  - first:
+      74: -8023593493852049105
+    second: WindowLight|particle.175|Scene
+  - first:
+      74: 4357712539137406266
+    second: WindowLight|particle.180|Scene
+  - first:
+      74: 7305205225012969445
+    second: WindowLight|particle.189|Scene
+  - first:
+      74: -1121519034167718037
+    second: WindowLight|particle.190|Scene
+  - first:
+      74: -1757553105655274986
+    second: WindowLight|particle.195|Scene
+  - first:
+      74: -926306122718874348
+    second: WindowLight|particle.197|Scene
+  - first:
+      74: -1474931701139472737
+    second: WindowLight|particle.202|Scene
+  - first:
+      74: -8521405234029352029
+    second: WindowLight|particle.216|Scene
+  - first:
+      74: 2981036736997459471
+    second: WindowLight|particle.241|Scene
+  - first:
+      74: -2791130112778029381
+    second: WindowLight|particle.243|Scene
+  - first:
+      74: 8926384235436362290
+    second: WindowLight|particle.244|Scene
+  - first:
+      74: -3686651369511545920
+    second: WindowLight|particle.248|Scene
+  - first:
+      74: -4993988598711692891
+    second: WindowLight|particle.266|Scene
+  - first:
+      74: 5373671059856973706
+    second: WindowLight|particle.273|Scene
+  - first:
+      74: -8406719894654553078
+    second: WindowLight|particle.285|Scene
+  - first:
+      74: -278402492781542241
+    second: WindowLight|particle.299|Scene
+  - first:
+      74: 4632225664078908839
+    second: WindowLight|particle.301|Scene
+  - first:
+      74: 6421717911856906335
+    second: WindowLight|particle.303|Scene
+  - first:
+      74: -8010761783694091011
+    second: WindowLight|particle.306|Scene
+  - first:
+      74: -1854345386738155835
+    second: WindowLight|particle.309|Scene
+  - first:
+      74: -3338823251139184770
+    second: WindowLight|particle.312|Scene
+  - first:
+      74: 8254671465289811186
+    second: WindowLight|particle.318|Scene
+  - first:
+      74: -3763082534553491907
+    second: WindowLight|particle.320|Scene
+  - first:
+      74: -6277141534448557010
+    second: WindowLight|particle.324|Scene
+  - first:
+      74: -4426832338830778785
+    second: WindowLight|particle.329|Scene
+  - first:
+      74: -3522646173607704387
+    second: WindowLight|particle.332|Scene
+  - first:
+      74: -3012582744557865989
+    second: WindowLight|particle.335|Scene
+  - first:
+      74: -5452462425121262590
+    second: WindowLight|particle.341|Scene
+  - first:
+      74: 6476541973618942958
+    second: WindowLight|particle.345|Scene
+  - first:
+      74: -4233293027185702003
+    second: WindowLight|particle.353|Scene
+  - first:
+      74: -8224601890183943701
+    second: WindowLight|particle.371|Scene
+  - first:
+      74: 8335087707826719828
+    second: WindowLight|particle.374|Scene
+  - first:
+      74: 4421664880384906334
+    second: WindowLight|particle.380|Scene
+  - first:
+      74: -2836027617206546740
+    second: WindowLight|particle.381|Scene
+  - first:
+      74: -8384616435290602964
+    second: WindowLight|particle.384|Scene
+  - first:
+      74: 7064219153987342978
+    second: WindowLight|particle.385|Scene
+  - first:
+      74: 7488549819155384706
+    second: WindowLight|particle.399|Scene
+  - first:
+      74: -6615756747111992392
+    second: WindowLight|particle.401|Scene
+  - first:
+      74: 7862417322319107046
+    second: WindowLight|particle.411|Scene
+  - first:
+      74: 498075751661745841
+    second: WindowLight|particle.412|Scene
+  - first:
+      74: -1355396308186047594
+    second: WindowLight|particle.413|Scene
+  - first:
+      74: -7540254816384612627
+    second: WindowLight|particle.417|Scene
+  - first:
+      74: -7757936477634297491
+    second: WindowLight|particle.430|Scene
+  - first:
+      74: -5883184567559314917
+    second: WindowLight|particle.441|Scene
+  - first:
+      74: -4903340357409435021
+    second: WindowLight|particle.449|Scene
+  - first:
+      74: -9102956135610341621
+    second: WindowLight|particle.452|Scene
+  - first:
+      74: 1260154085793062581
+    second: WindowLight|particle.455|Scene
+  - first:
+      74: -3163100729572664990
+    second: WindowLight|particle.458|Scene
+  - first:
+      74: 7756454209314313903
+    second: WindowLight|particle.459|Scene
+  - first:
+      74: 5827400391445541818
+    second: WindowLight|particle.462|Scene
+  - first:
+      74: -2099472426631675593
+    second: WindowLight|particle.463|Scene
+  - first:
+      74: 6689461320580670507
+    second: WindowLight|particle.468|Scene
+  - first:
+      74: -8096322987237397306
+    second: WindowLight|particle.471|Scene
+  - first:
+      74: 7259775255544590504
+    second: WindowLight|particle.480|Scene
+  - first:
+      74: 1201322577974429988
+    second: WindowLight|particle.495|Scene
+  - first:
+      74: -1443966917549463084
+    second: WindowLight|particle.497|Scene
+  - first:
+      74: -7528744976941925679
+    second: WindowLight|particle.499|Scene
+  - first:
+      74: 397801773879680837
+    second: WindowLight|Texture Group|Take 001|Layer 001
+  - first:
+      74: 4274786676258738954
+    second: WindowLight|Wave.001B|Scene
+  - first:
+      74: 1290895265713021397
+    second: WindowLight|Wave.001|Scene
+  - first:
+      74: 5880399043702978665
+    second: WindowLight|Wave.002|Scene
+  - first:
+      74: -2625379868157787962
+    second: WindowLight|Wave.003|Scene
+  - first:
+      74: 1972202633983767579
+    second: WindowLight|Wave|Scene
+  - first:
+      74: 5561752991643417250
+    second: WindowLight|WindowLightGlow|Scene
+  - first:
+      74: 8149754304884214101
+    second: WindowLight|WindowLightRefl|Scene
+  - first:
+      74: 2821069709259593645
+    second: WindowLight|WindowLightTop|Scene
+  - first:
+      74: 3616266481803468328
+    second: WindowLight|WindowLight|Scene
+  - first:
+      74: -2642833638431785367
+    second: WindowLightTop|Camera|Take 001|Layer 001
+  - first:
+      74: 4229386366542515886
+    second: WindowLightTop|Fog|Scene
+  - first:
+      74: -7687143700615148904
+    second: WindowLightTop|old tree|Take 001|Layer 001
+  - first:
+      74: 8176797736782151255
+    second: WindowLightTop|particle.000|Scene
+  - first:
+      74: 3987037611161262244
+    second: WindowLightTop|particle.005|Scene
+  - first:
+      74: -4728142883560969173
+    second: WindowLightTop|particle.006|Scene
+  - first:
+      74: 5753364825802226525
+    second: WindowLightTop|particle.017|Scene
+  - first:
+      74: -3671370702393005879
+    second: WindowLightTop|particle.036|Scene
+  - first:
+      74: 8979827089502944523
+    second: WindowLightTop|particle.043|Scene
+  - first:
+      74: 5686879440462688849
+    second: WindowLightTop|particle.044|Scene
+  - first:
+      74: -6199830844019183657
+    second: WindowLightTop|particle.055|Scene
+  - first:
+      74: -2507634492299187803
+    second: WindowLightTop|particle.060|Scene
+  - first:
+      74: -2803008754273128565
+    second: WindowLightTop|particle.064|Scene
+  - first:
+      74: 6997174270368063153
+    second: WindowLightTop|particle.068|Scene
+  - first:
+      74: 1388716459706871657
+    second: WindowLightTop|particle.070|Scene
+  - first:
+      74: 1654641729640213258
+    second: WindowLightTop|particle.071|Scene
+  - first:
+      74: -7692157939706216903
+    second: WindowLightTop|particle.085|Scene
+  - first:
+      74: 4395185920410769210
+    second: WindowLightTop|particle.090|Scene
+  - first:
+      74: -1739542037186039414
+    second: WindowLightTop|particle.102|Scene
+  - first:
+      74: 6751636562977641128
+    second: WindowLightTop|particle.131|Scene
+  - first:
+      74: 746394433292968046
+    second: WindowLightTop|particle.136|Scene
+  - first:
+      74: 8527990546674608705
+    second: WindowLightTop|particle.141|Scene
+  - first:
+      74: 8890047981533725024
+    second: WindowLightTop|particle.144|Scene
+  - first:
+      74: -1120765713074483413
+    second: WindowLightTop|particle.152|Scene
+  - first:
+      74: -1947692866605248739
+    second: WindowLightTop|particle.155|Scene
+  - first:
+      74: -2957816911363393438
+    second: WindowLightTop|particle.170|Scene
+  - first:
+      74: 3603982204656478415
+    second: WindowLightTop|particle.174|Scene
+  - first:
+      74: -4397672917059426944
+    second: WindowLightTop|particle.175|Scene
+  - first:
+      74: -180815465833726542
+    second: WindowLightTop|particle.180|Scene
+  - first:
+      74: 1880024800563676762
+    second: WindowLightTop|particle.189|Scene
+  - first:
+      74: 6761778925119203952
+    second: WindowLightTop|particle.190|Scene
+  - first:
+      74: -3421810251574196449
+    second: WindowLightTop|particle.195|Scene
+  - first:
+      74: 781095719653785355
+    second: WindowLightTop|particle.197|Scene
+  - first:
+      74: 1491612616483099181
+    second: WindowLightTop|particle.202|Scene
+  - first:
+      74: -2548612229359778462
+    second: WindowLightTop|particle.216|Scene
+  - first:
+      74: 6554885449847165282
+    second: WindowLightTop|particle.241|Scene
+  - first:
+      74: 8813042230640768442
+    second: WindowLightTop|particle.243|Scene
+  - first:
+      74: 1715270280803325208
+    second: WindowLightTop|particle.244|Scene
+  - first:
+      74: -3178027720512589511
+    second: WindowLightTop|particle.248|Scene
+  - first:
+      74: -8734895056562071250
+    second: WindowLightTop|particle.266|Scene
+  - first:
+      74: 8970967595195707246
+    second: WindowLightTop|particle.273|Scene
+  - first:
+      74: 6913784633635144354
+    second: WindowLightTop|particle.285|Scene
+  - first:
+      74: -3902040457588822188
+    second: WindowLightTop|particle.299|Scene
+  - first:
+      74: -8466100201221985583
+    second: WindowLightTop|particle.301|Scene
+  - first:
+      74: 7517415506670525653
+    second: WindowLightTop|particle.303|Scene
+  - first:
+      74: 8739256911253928699
+    second: WindowLightTop|particle.306|Scene
+  - first:
+      74: -8069325970871746215
+    second: WindowLightTop|particle.309|Scene
+  - first:
+      74: 6843062109386650600
+    second: WindowLightTop|particle.312|Scene
+  - first:
+      74: -474645230863759565
+    second: WindowLightTop|particle.318|Scene
+  - first:
+      74: 3861884136602990772
+    second: WindowLightTop|particle.320|Scene
+  - first:
+      74: 8044178260218710316
+    second: WindowLightTop|particle.324|Scene
+  - first:
+      74: -4561394043654119945
+    second: WindowLightTop|particle.329|Scene
+  - first:
+      74: -5677303162911875328
+    second: WindowLightTop|particle.332|Scene
+  - first:
+      74: -51494702019866283
+    second: WindowLightTop|particle.335|Scene
+  - first:
+      74: -3588501291798084791
+    second: WindowLightTop|particle.341|Scene
+  - first:
+      74: -1686255258087956016
+    second: WindowLightTop|particle.345|Scene
+  - first:
+      74: 4439924391995990092
+    second: WindowLightTop|particle.353|Scene
+  - first:
+      74: 6584181686603384009
+    second: WindowLightTop|particle.371|Scene
+  - first:
+      74: -4697929576872824846
+    second: WindowLightTop|particle.374|Scene
+  - first:
+      74: -4381017934150441347
+    second: WindowLightTop|particle.380|Scene
+  - first:
+      74: 7829167449578708806
+    second: WindowLightTop|particle.381|Scene
+  - first:
+      74: -5967449098899314143
+    second: WindowLightTop|particle.384|Scene
+  - first:
+      74: 2761907600614484390
+    second: WindowLightTop|particle.385|Scene
+  - first:
+      74: -2084570660600909647
+    second: WindowLightTop|particle.399|Scene
+  - first:
+      74: 7884107476570052774
+    second: WindowLightTop|particle.401|Scene
+  - first:
+      74: 7895954632412199871
+    second: WindowLightTop|particle.411|Scene
+  - first:
+      74: 4956559692610575165
+    second: WindowLightTop|particle.412|Scene
+  - first:
+      74: -2822214335279340828
+    second: WindowLightTop|particle.413|Scene
+  - first:
+      74: -5140371603862273265
+    second: WindowLightTop|particle.417|Scene
+  - first:
+      74: 7168341660240769584
+    second: WindowLightTop|particle.430|Scene
+  - first:
+      74: -434457966907488128
+    second: WindowLightTop|particle.441|Scene
+  - first:
+      74: 3340418927835199258
+    second: WindowLightTop|particle.449|Scene
+  - first:
+      74: 4061318749713726238
+    second: WindowLightTop|particle.452|Scene
+  - first:
+      74: 9123158757837692208
+    second: WindowLightTop|particle.455|Scene
+  - first:
+      74: 5078868135557383879
+    second: WindowLightTop|particle.458|Scene
+  - first:
+      74: -2012287905691381504
+    second: WindowLightTop|particle.459|Scene
+  - first:
+      74: 7299475806841794371
+    second: WindowLightTop|particle.462|Scene
+  - first:
+      74: 3540385260497016749
+    second: WindowLightTop|particle.463|Scene
+  - first:
+      74: -1908123698522031402
+    second: WindowLightTop|particle.468|Scene
+  - first:
+      74: 3464129929591749683
+    second: WindowLightTop|particle.471|Scene
+  - first:
+      74: -69158774473594117
+    second: WindowLightTop|particle.480|Scene
+  - first:
+      74: 4298532924848966324
+    second: WindowLightTop|particle.495|Scene
+  - first:
+      74: 4222897867733810652
+    second: WindowLightTop|particle.497|Scene
+  - first:
+      74: 6230287848469279135
+    second: WindowLightTop|particle.499|Scene
+  - first:
+      74: 4126603634819433641
+    second: WindowLightTop|Texture Group|Take 001|Layer 001
+  - first:
+      74: 6480269747794323890
+    second: WindowLightTop|Wave.001B|Scene
+  - first:
+      74: 6178795000372759456
+    second: WindowLightTop|Wave.001|Scene
+  - first:
+      74: 8596394175952739521
+    second: WindowLightTop|Wave.002|Scene
+  - first:
+      74: -5823363206885579639
+    second: WindowLightTop|Wave.003|Scene
+  - first:
+      74: 409706547402910339
+    second: WindowLightTop|Wave|Scene
+  - first:
+      74: -5743710536682528030
+    second: WindowLightTop|WindowLightGlow|Scene
+  - first:
+      74: -4171008166580075385
+    second: WindowLightTop|WindowLightRefl|Scene
+  - first:
+      74: -3613206032324356993
+    second: WindowLightTop|WindowLightTop|Scene
+  - first:
+      74: 4935512757570879383
+    second: WindowLightTop|WindowLight|Scene
+  - first:
+      74: -8005532306356343424
+    second: old tree|Camera|Take 001|Layer 001
+  - first:
+      74: -47909186158168023
+    second: old tree|Fog|Scene
+  - first:
+      74: 1485656036101277752
+    second: old tree|old tree|Take 001|Layer 001
+  - first:
+      74: 4019972326571530687
+    second: old tree|particle.000|Scene
+  - first:
+      74: -4718188699161772667
+    second: old tree|particle.005|Scene
+  - first:
+      74: -455217728779517632
+    second: old tree|particle.006|Scene
+  - first:
+      74: -4664504391967680344
+    second: old tree|particle.017|Scene
+  - first:
+      74: 4198824007104442166
+    second: old tree|particle.036|Scene
+  - first:
+      74: 167455855304158472
+    second: old tree|particle.043|Scene
+  - first:
+      74: 2741799617799574489
+    second: old tree|particle.044|Scene
+  - first:
+      74: -9098373590789833869
+    second: old tree|particle.055|Scene
+  - first:
+      74: 6103252344113495262
+    second: old tree|particle.060|Scene
+  - first:
+      74: -5466235228135833077
+    second: old tree|particle.064|Scene
+  - first:
+      74: 285666862786047814
+    second: old tree|particle.068|Scene
+  - first:
+      74: 8947390835213692173
+    second: old tree|particle.070|Scene
+  - first:
+      74: -3491774733461764474
+    second: old tree|particle.071|Scene
+  - first:
+      74: -5606034365340617924
+    second: old tree|particle.085|Scene
+  - first:
+      74: -5338871578987029723
+    second: old tree|particle.090|Scene
+  - first:
+      74: -3332530982835843511
+    second: old tree|particle.102|Scene
+  - first:
+      74: -6565929098816698192
+    second: old tree|particle.131|Scene
+  - first:
+      74: -475302802178771943
+    second: old tree|particle.136|Scene
+  - first:
+      74: 3037538791187117245
+    second: old tree|particle.141|Scene
+  - first:
+      74: 7145656889910477818
+    second: old tree|particle.144|Scene
+  - first:
+      74: 2232091828098807268
+    second: old tree|particle.152|Scene
+  - first:
+      74: 1746779045215259189
+    second: old tree|particle.155|Scene
+  - first:
+      74: 3400541774898255512
+    second: old tree|particle.170|Scene
+  - first:
+      74: -8266178846225391815
+    second: old tree|particle.174|Scene
+  - first:
+      74: 8922837966888552416
+    second: old tree|particle.175|Scene
+  - first:
+      74: -6930677635966247956
+    second: old tree|particle.180|Scene
+  - first:
+      74: -581020089550435689
+    second: old tree|particle.189|Scene
+  - first:
+      74: -137923348569083930
+    second: old tree|particle.190|Scene
+  - first:
+      74: -6502214939396934787
+    second: old tree|particle.195|Scene
+  - first:
+      74: 109577821353863240
+    second: old tree|particle.197|Scene
+  - first:
+      74: -2642740784122634015
+    second: old tree|particle.202|Scene
+  - first:
+      74: -7118464576687253496
+    second: old tree|particle.216|Scene
+  - first:
+      74: -1026172833909174512
+    second: old tree|particle.241|Scene
+  - first:
+      74: -1020011210247277074
+    second: old tree|particle.243|Scene
+  - first:
+      74: -121126613140401145
+    second: old tree|particle.244|Scene
+  - first:
+      74: -1513677055367808500
+    second: old tree|particle.248|Scene
+  - first:
+      74: -8697997518696999213
+    second: old tree|particle.266|Scene
+  - first:
+      74: 2970404336623477764
+    second: old tree|particle.273|Scene
+  - first:
+      74: 1843526227252572487
+    second: old tree|particle.285|Scene
+  - first:
+      74: 992822297383379545
+    second: old tree|particle.299|Scene
+  - first:
+      74: -7396101650252276931
+    second: old tree|particle.301|Scene
+  - first:
+      74: -7466977356301164452
+    second: old tree|particle.303|Scene
+  - first:
+      74: -779893478186968940
+    second: old tree|particle.306|Scene
+  - first:
+      74: 1012801580451134776
+    second: old tree|particle.309|Scene
+  - first:
+      74: -7339527740601258509
+    second: old tree|particle.312|Scene
+  - first:
+      74: 1032967908928855698
+    second: old tree|particle.318|Scene
+  - first:
+      74: -1866108792831476153
+    second: old tree|particle.320|Scene
+  - first:
+      74: -8807925689029424714
+    second: old tree|particle.324|Scene
+  - first:
+      74: -7545970393732808400
+    second: old tree|particle.329|Scene
+  - first:
+      74: 9181734102974342504
+    second: old tree|particle.332|Scene
+  - first:
+      74: -6188880774680364872
+    second: old tree|particle.335|Scene
+  - first:
+      74: 725678966130067508
+    second: old tree|particle.341|Scene
+  - first:
+      74: -2755720901569153183
+    second: old tree|particle.345|Scene
+  - first:
+      74: 7328732823525765497
+    second: old tree|particle.353|Scene
+  - first:
+      74: 6074883005705241488
+    second: old tree|particle.371|Scene
+  - first:
+      74: 8717579839333122848
+    second: old tree|particle.374|Scene
+  - first:
+      74: 3029452448423541115
+    second: old tree|particle.380|Scene
+  - first:
+      74: -4693465980561180174
+    second: old tree|particle.381|Scene
+  - first:
+      74: -5266079411081537560
+    second: old tree|particle.384|Scene
+  - first:
+      74: -27523855506542013
+    second: old tree|particle.385|Scene
+  - first:
+      74: -443741883556656523
+    second: old tree|particle.399|Scene
+  - first:
+      74: 3953077170602364176
+    second: old tree|particle.401|Scene
+  - first:
+      74: 6447704548898770049
+    second: old tree|particle.411|Scene
+  - first:
+      74: -1567394571744284381
+    second: old tree|particle.412|Scene
+  - first:
+      74: -3916415884815390071
+    second: old tree|particle.413|Scene
+  - first:
+      74: -4469428164055243905
+    second: old tree|particle.417|Scene
+  - first:
+      74: 733359169238589084
+    second: old tree|particle.430|Scene
+  - first:
+      74: 1573034613530123281
+    second: old tree|particle.441|Scene
+  - first:
+      74: -8496508021301074156
+    second: old tree|particle.449|Scene
+  - first:
+      74: -2809411988697273558
+    second: old tree|particle.452|Scene
+  - first:
+      74: 9091606175607546351
+    second: old tree|particle.455|Scene
+  - first:
+      74: -6171816258880994137
+    second: old tree|particle.458|Scene
+  - first:
+      74: -6875826181902548438
+    second: old tree|particle.459|Scene
+  - first:
+      74: -3283762530163963288
+    second: old tree|particle.462|Scene
+  - first:
+      74: 3334182743222752709
+    second: old tree|particle.463|Scene
+  - first:
+      74: -1009510184912051234
+    second: old tree|particle.468|Scene
+  - first:
+      74: 854922835712113974
+    second: old tree|particle.471|Scene
+  - first:
+      74: -9060397685905539015
+    second: old tree|particle.480|Scene
+  - first:
+      74: 4024369709153830671
+    second: old tree|particle.495|Scene
+  - first:
+      74: -6662225121163371569
+    second: old tree|particle.497|Scene
+  - first:
+      74: -4964326873891525139
+    second: old tree|particle.499|Scene
+  - first:
+      74: 7401492576487087499
+    second: old tree|Texture Group|Take 001|Layer 001
+  - first:
+      74: -2151486646323560156
+    second: old tree|Wave.001B|Scene
+  - first:
+      74: 2063804087185551240
+    second: old tree|Wave.001|Scene
+  - first:
+      74: -1851727853715936130
+    second: old tree|Wave.002|Scene
+  - first:
+      74: 8124627734212336992
+    second: old tree|Wave.003|Scene
+  - first:
+      74: -4749872201811219295
+    second: old tree|Wave|Scene
+  - first:
+      74: 5171884725506996569
+    second: old tree|WindowLightGlow|Scene
+  - first:
+      74: -5177985382057532085
+    second: old tree|WindowLightRefl|Scene
+  - first:
+      74: -2684543261962465231
+    second: old tree|WindowLightTop|Scene
+  - first:
+      74: -302899862125608412
+    second: old tree|WindowLight|Scene
+  - first:
+      74: -8163984703036636009
+    second: Camera|Camera|Take 001|Layer 001
+  - first:
+      74: -3891034516661355407
+    second: Camera|Fog|Scene
+  - first:
+      74: 8323665475235223423
+    second: Camera|old tree|Take 001|Layer 001
+  - first:
+      74: 4101814062256475436
+    second: Camera|particle.000|Scene
+  - first:
+      74: 6392514783800882859
+    second: Camera|particle.005|Scene
+  - first:
+      74: 763318488370567413
+    second: Camera|particle.006|Scene
+  - first:
+      74: -8197076017361270010
+    second: Camera|particle.017|Scene
+  - first:
+      74: -5964280524121455954
+    second: Camera|particle.036|Scene
+  - first:
+      74: -3448152922068537527
+    second: Camera|particle.043|Scene
+  - first:
+      74: -6886617040820657438
+    second: Camera|particle.044|Scene
+  - first:
+      74: -7879534786577182568
+    second: Camera|particle.055|Scene
+  - first:
+      74: 7989685577373906218
+    second: Camera|particle.060|Scene
+  - first:
+      74: -6787893551426819030
+    second: Camera|particle.064|Scene
+  - first:
+      74: -8305075085010426579
+    second: Camera|particle.068|Scene
+  - first:
+      74: -1711455457734907389
+    second: Camera|particle.070|Scene
+  - first:
+      74: 3355178362935445448
+    second: Camera|particle.071|Scene
+  - first:
+      74: -9206211078207762993
+    second: Camera|particle.085|Scene
+  - first:
+      74: -35451086370974104
+    second: Camera|particle.090|Scene
+  - first:
+      74: -3888531488626218177
+    second: Camera|particle.102|Scene
+  - first:
+      74: 575631060388052982
+    second: Camera|particle.131|Scene
+  - first:
+      74: 4709649436941431649
+    second: Camera|particle.136|Scene
+  - first:
+      74: -7264339029292215041
+    second: Camera|particle.141|Scene
+  - first:
+      74: -8850284282031974708
+    second: Camera|particle.144|Scene
+  - first:
+      74: 3991212658372596846
+    second: Camera|particle.152|Scene
+  - first:
+      74: 2259439508152296841
+    second: Camera|particle.155|Scene
+  - first:
+      74: 8718871247247478476
+    second: Camera|particle.170|Scene
+  - first:
+      74: 8740257336422591156
+    second: Camera|particle.174|Scene
+  - first:
+      74: 3008039309226606513
+    second: Camera|particle.175|Scene
+  - first:
+      74: -5396789791300771484
+    second: Camera|particle.180|Scene
+  - first:
+      74: -7128234449943053764
+    second: Camera|particle.189|Scene
+  - first:
+      74: 6791245317642981888
+    second: Camera|particle.190|Scene
+  - first:
+      74: 1955641105283711653
+    second: Camera|particle.195|Scene
+  - first:
+      74: 5611259060925126791
+    second: Camera|particle.197|Scene
+  - first:
+      74: -8073636058878063764
+    second: Camera|particle.202|Scene
+  - first:
+      74: 6331386729203599640
+    second: Camera|particle.216|Scene
+  - first:
+      74: -4942137309560209379
+    second: Camera|particle.241|Scene
+  - first:
+      74: 1935516594722759135
+    second: Camera|particle.243|Scene
+  - first:
+      74: 8386252912554857357
+    second: Camera|particle.244|Scene
+  - first:
+      74: 8339211956099094575
+    second: Camera|particle.248|Scene
+  - first:
+      74: -5549008418107647212
+    second: Camera|particle.266|Scene
+  - first:
+      74: -6472099338580988880
+    second: Camera|particle.273|Scene
+  - first:
+      74: -7636664929507590917
+    second: Camera|particle.285|Scene
+  - first:
+      74: -9165709391279867275
+    second: Camera|particle.299|Scene
+  - first:
+      74: 3657619413206436941
+    second: Camera|particle.301|Scene
+  - first:
+      74: -1438888621250789925
+    second: Camera|particle.303|Scene
+  - first:
+      74: -8801503079188167872
+    second: Camera|particle.306|Scene
+  - first:
+      74: -3466014923032393980
+    second: Camera|particle.309|Scene
+  - first:
+      74: 3516817545672271997
+    second: Camera|particle.312|Scene
+  - first:
+      74: 3300246795936480111
+    second: Camera|particle.318|Scene
+  - first:
+      74: -6891889416810585660
+    second: Camera|particle.320|Scene
+  - first:
+      74: 8375924674695575491
+    second: Camera|particle.324|Scene
+  - first:
+      74: -2126918425807661185
+    second: Camera|particle.329|Scene
+  - first:
+      74: 5252419567475901383
+    second: Camera|particle.332|Scene
+  - first:
+      74: 7894436293786178652
+    second: Camera|particle.335|Scene
+  - first:
+      74: 2111817931826584588
+    second: Camera|particle.341|Scene
+  - first:
+      74: -2479488395360107703
+    second: Camera|particle.345|Scene
+  - first:
+      74: -2922202448667951924
+    second: Camera|particle.353|Scene
+  - first:
+      74: -6194339439154349043
+    second: Camera|particle.371|Scene
+  - first:
+      74: 8273986232149314486
+    second: Camera|particle.374|Scene
+  - first:
+      74: -8678183115412777207
+    second: Camera|particle.380|Scene
+  - first:
+      74: 8072153715719969432
+    second: Camera|particle.381|Scene
+  - first:
+      74: 8275014651010127840
+    second: Camera|particle.384|Scene
+  - first:
+      74: -7010106515147850955
+    second: Camera|particle.385|Scene
+  - first:
+      74: -2010925658880981502
+    second: Camera|particle.399|Scene
+  - first:
+      74: -1015648564247856923
+    second: Camera|particle.401|Scene
+  - first:
+      74: -3827405675509533595
+    second: Camera|particle.411|Scene
+  - first:
+      74: -3943092550120113027
+    second: Camera|particle.412|Scene
+  - first:
+      74: 5963698610931814967
+    second: Camera|particle.413|Scene
+  - first:
+      74: 7316977820482779013
+    second: Camera|particle.417|Scene
+  - first:
+      74: -2886075250130820656
+    second: Camera|particle.430|Scene
+  - first:
+      74: -7997749400922070246
+    second: Camera|particle.441|Scene
+  - first:
+      74: 5131974657984417306
+    second: Camera|particle.449|Scene
+  - first:
+      74: -994361046499271661
+    second: Camera|particle.452|Scene
+  - first:
+      74: -2082914179912718408
+    second: Camera|particle.455|Scene
+  - first:
+      74: -3962797877066078659
+    second: Camera|particle.458|Scene
+  - first:
+      74: 4707116233366022552
+    second: Camera|particle.459|Scene
+  - first:
+      74: -2049437484610850444
+    second: Camera|particle.462|Scene
+  - first:
+      74: -948214034517754450
+    second: Camera|particle.463|Scene
+  - first:
+      74: -4922266732277679187
+    second: Camera|particle.468|Scene
+  - first:
+      74: -9064983290445036037
+    second: Camera|particle.471|Scene
+  - first:
+      74: 1714069898578561056
+    second: Camera|particle.480|Scene
+  - first:
+      74: -6385467547673318190
+    second: Camera|particle.495|Scene
+  - first:
+      74: 542510735674406298
+    second: Camera|particle.497|Scene
+  - first:
+      74: 1693073316249148406
+    second: Camera|particle.499|Scene
+  - first:
+      74: 2977595913854576119
+    second: Camera|Texture Group|Take 001|Layer 001
+  - first:
+      74: 5564475828673420492
+    second: Camera|Wave.001B|Scene
+  - first:
+      74: -142460968508570762
+    second: Camera|Wave.001|Scene
+  - first:
+      74: 1493329483659004408
+    second: Camera|Wave.002|Scene
+  - first:
+      74: -4221598164365514845
+    second: Camera|Wave.003|Scene
+  - first:
+      74: 6883503867744306784
+    second: Camera|Wave|Scene
+  - first:
+      74: 1014566151906106434
+    second: Camera|WindowLightGlow|Scene
+  - first:
+      74: -5739716425505070917
+    second: Camera|WindowLightRefl|Scene
+  - first:
+      74: -1464155527441759253
+    second: Camera|WindowLightTop|Scene
+  - first:
+      74: 6391598542631498159
+    second: Camera|WindowLight|Scene
+  - first:
+      74: -6126325045238124917
+    second: Texture Group|Camera|Take 001|Layer 001
+  - first:
+      74: 1159666758122010697
+    second: Texture Group|Fog|Scene
+  - first:
+      74: 3496329831881590486
+    second: Texture Group|old tree|Take 001|Layer 001
+  - first:
+      74: 424863217661455149
+    second: Texture Group|particle.000|Scene
+  - first:
+      74: -3073859319119797459
+    second: Texture Group|particle.005|Scene
+  - first:
+      74: 2709011464645898674
+    second: Texture Group|particle.006|Scene
+  - first:
+      74: 1062688473046361095
+    second: Texture Group|particle.017|Scene
+  - first:
+      74: -5193357242896729322
+    second: Texture Group|particle.036|Scene
+  - first:
+      74: 4557076383257928832
+    second: Texture Group|particle.043|Scene
+  - first:
+      74: 1876683441538585455
+    second: Texture Group|particle.044|Scene
+  - first:
+      74: 3510792708918141221
+    second: Texture Group|particle.055|Scene
+  - first:
+      74: -4374648234553332501
+    second: Texture Group|particle.060|Scene
+  - first:
+      74: 364755493617823105
+    second: Texture Group|particle.064|Scene
+  - first:
+      74: -378350066967136817
+    second: Texture Group|particle.068|Scene
+  - first:
+      74: 5098712085723960121
+    second: Texture Group|particle.070|Scene
+  - first:
+      74: -3941180801101748556
+    second: Texture Group|particle.071|Scene
+  - first:
+      74: -7595749994856047224
+    second: Texture Group|particle.085|Scene
+  - first:
+      74: -5677411147624869856
+    second: Texture Group|particle.090|Scene
+  - first:
+      74: 2573638881127285413
+    second: Texture Group|particle.102|Scene
+  - first:
+      74: -6273734756980479324
+    second: Texture Group|particle.131|Scene
+  - first:
+      74: 7112101734779834591
+    second: Texture Group|particle.136|Scene
+  - first:
+      74: 1142403494497953236
+    second: Texture Group|particle.141|Scene
+  - first:
+      74: 2883893243786674669
+    second: Texture Group|particle.144|Scene
+  - first:
+      74: -5518615407594999939
+    second: Texture Group|particle.152|Scene
+  - first:
+      74: 1439028744598164685
+    second: Texture Group|particle.155|Scene
+  - first:
+      74: -6937351400988783027
+    second: Texture Group|particle.170|Scene
+  - first:
+      74: 7494221159160293560
+    second: Texture Group|particle.174|Scene
+  - first:
+      74: -5056319012238081215
+    second: Texture Group|particle.175|Scene
+  - first:
+      74: -4879749874217218318
+    second: Texture Group|particle.180|Scene
+  - first:
+      74: 8472321567045635609
+    second: Texture Group|particle.189|Scene
+  - first:
+      74: 1052093662578036579
+    second: Texture Group|particle.190|Scene
+  - first:
+      74: 8728128412724995408
+    second: Texture Group|particle.195|Scene
+  - first:
+      74: -6308987276371789013
+    second: Texture Group|particle.197|Scene
+  - first:
+      74: -7715208984429144504
+    second: Texture Group|particle.202|Scene
+  - first:
+      74: 2287979734287577170
+    second: Texture Group|particle.216|Scene
+  - first:
+      74: 2798818353199440143
+    second: Texture Group|particle.241|Scene
+  - first:
+      74: 8509353857068240081
+    second: Texture Group|particle.243|Scene
+  - first:
+      74: -1313463887187360633
+    second: Texture Group|particle.244|Scene
+  - first:
+      74: 1054526334779691559
+    second: Texture Group|particle.248|Scene
+  - first:
+      74: -1154527843507294778
+    second: Texture Group|particle.266|Scene
+  - first:
+      74: 8185017755179987032
+    second: Texture Group|particle.273|Scene
+  - first:
+      74: -8728328813430913166
+    second: Texture Group|particle.285|Scene
+  - first:
+      74: 7574390646443065052
+    second: Texture Group|particle.299|Scene
+  - first:
+      74: 4385870279188443957
+    second: Texture Group|particle.301|Scene
+  - first:
+      74: 6171651371893472477
+    second: Texture Group|particle.303|Scene
+  - first:
+      74: -8151559673461889989
+    second: Texture Group|particle.306|Scene
+  - first:
+      74: 127671723110447632
+    second: Texture Group|particle.309|Scene
+  - first:
+      74: -5798422538820341425
+    second: Texture Group|particle.312|Scene
+  - first:
+      74: 1391827099220169277
+    second: Texture Group|particle.318|Scene
+  - first:
+      74: 2181766032007780080
+    second: Texture Group|particle.320|Scene
+  - first:
+      74: -4361708105450772333
+    second: Texture Group|particle.324|Scene
+  - first:
+      74: 7515397882145103881
+    second: Texture Group|particle.329|Scene
+  - first:
+      74: -3176477579523870773
+    second: Texture Group|particle.332|Scene
+  - first:
+      74: -4406052669407801727
+    second: Texture Group|particle.335|Scene
+  - first:
+      74: 3434225507783773743
+    second: Texture Group|particle.341|Scene
+  - first:
+      74: 1049433447560413812
+    second: Texture Group|particle.345|Scene
+  - first:
+      74: 5829367214029405137
+    second: Texture Group|particle.353|Scene
+  - first:
+      74: -2229762953812006333
+    second: Texture Group|particle.371|Scene
+  - first:
+      74: 558159228220213246
+    second: Texture Group|particle.374|Scene
+  - first:
+      74: 4850915980389876753
+    second: Texture Group|particle.380|Scene
+  - first:
+      74: -553271421618332702
+    second: Texture Group|particle.381|Scene
+  - first:
+      74: 7185406525477044012
+    second: Texture Group|particle.384|Scene
+  - first:
+      74: 647510465976918432
+    second: Texture Group|particle.385|Scene
+  - first:
+      74: 3822705394228523558
+    second: Texture Group|particle.399|Scene
+  - first:
+      74: -1759445222673466897
+    second: Texture Group|particle.401|Scene
+  - first:
+      74: 4306806158467991796
+    second: Texture Group|particle.411|Scene
+  - first:
+      74: -736223214366950246
+    second: Texture Group|particle.412|Scene
+  - first:
+      74: -5875635821639788028
+    second: Texture Group|particle.413|Scene
+  - first:
+      74: 5979230390499815427
+    second: Texture Group|particle.417|Scene
+  - first:
+      74: 6769380975999358399
+    second: Texture Group|particle.430|Scene
+  - first:
+      74: 6742147900041856160
+    second: Texture Group|particle.441|Scene
+  - first:
+      74: 1611924760944641755
+    second: Texture Group|particle.449|Scene
+  - first:
+      74: 5481988304938331583
+    second: Texture Group|particle.452|Scene
+  - first:
+      74: -2893830365349470250
+    second: Texture Group|particle.455|Scene
+  - first:
+      74: 423790351758230716
+    second: Texture Group|particle.458|Scene
+  - first:
+      74: -3547416411043232303
+    second: Texture Group|particle.459|Scene
+  - first:
+      74: -3206951963887428973
+    second: Texture Group|particle.462|Scene
+  - first:
+      74: 1084009183150360743
+    second: Texture Group|particle.463|Scene
+  - first:
+      74: -3685042525015315171
+    second: Texture Group|particle.468|Scene
+  - first:
+      74: 9171062503288275971
+    second: Texture Group|particle.471|Scene
+  - first:
+      74: -3393926417871575144
+    second: Texture Group|particle.480|Scene
+  - first:
+      74: 5548020191734433770
+    second: Texture Group|particle.495|Scene
+  - first:
+      74: -8123050543749519088
+    second: Texture Group|particle.497|Scene
+  - first:
+      74: -4882648168232699316
+    second: Texture Group|particle.499|Scene
+  - first:
+      74: 4942489634596724470
+    second: Texture Group|Texture Group|Take 001|Layer 001
+  - first:
+      74: 3430558235002445378
+    second: Texture Group|Wave.001B|Scene
+  - first:
+      74: 8965002866934168937
+    second: Texture Group|Wave.001|Scene
+  - first:
+      74: 2889800596913105882
+    second: Texture Group|Wave.002|Scene
+  - first:
+      74: 8438260030580857929
+    second: Texture Group|Wave.003|Scene
+  - first:
+      74: 1972264032618877221
+    second: Texture Group|Wave|Scene
+  - first:
+      74: 1304820711566529688
+    second: Texture Group|WindowLightGlow|Scene
+  - first:
+      74: 1697403966419799703
+    second: Texture Group|WindowLightRefl|Scene
+  - first:
+      74: -4049076489057566368
+    second: Texture Group|WindowLightTop|Scene
+  - first:
+      74: -3745365649067112193
+    second: Texture Group|WindowLight|Scene
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
