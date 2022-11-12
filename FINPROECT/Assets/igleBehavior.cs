@@ -9,22 +9,23 @@ public class igleBehavior : StateMachineBehaviour
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         timer = 0;
-    
+
     }
 
- 
+
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        timer += timer.deltaTime;
+        timer += Time.deltaTime;
         if (timer > 5)
             animator.SetBool("isPatroling", true);
-        
+
     }
 
-   
+
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        
+
     }
+}
 
     
