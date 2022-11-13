@@ -26,13 +26,17 @@ public class patrolBehavior : StateMachineBehaviour
     {
         if (agent.remainingDistance <= agent.stoppingDistance)
             agent.SetDestination(points[Random.Range(0, points.Count)].position);
+        timer += Time.deltaTime;
+        if (timer > 10)
+            animator.SetBool("isPatroling", false);
 
-        
+
     }
 
     
-   /override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+   override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
+        agent.SetDestination(agent.transform.position);
         
     }
 
